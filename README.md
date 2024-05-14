@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hichem-dahi
-- 👀 I’m interested in Vue.js, Nue.js
+- 👀 I’m interested in Vue.js, Nuxt.js, Nue.js, React.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: hichemdahi57@gmail.com
 
